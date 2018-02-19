@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "791652510802",
+    "firebase_url": "https://skcet-companion.firebaseio.com",
+    "project_id": "skcet-companion",
+    "storage_bucket": "skcet-companion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791652510802:android:51d2d57b483c36ca",
+        "android_client_info": {
+          "package_name": "in.ac.skcet.companion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791652510802-q5g8cg3jml0n1phjln38evhscsdk01cm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.ac.skcet.companion",
+            "certificate_hash": "a71948016a651a4d66f4fa843ddc6aeffab804bc"
+          }
+        },
+        {
+          "client_id": "791652510802-vbf17dbk7rtbjtgs7go1utqm2usop745.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs7lFWzUyM9iNC4g3Ky7iUs25PuJWQAlo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791652510802-vbf17dbk7rtbjtgs7go1utqm2usop745.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
